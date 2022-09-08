@@ -1,3 +1,3 @@
 # MyRepo
 
-This is my first gitJub repository.
+This is my first gitHub repository.
